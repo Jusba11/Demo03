@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarApplication", "CarApplic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiuasApp", "KiuasApp\KiuasApp.csproj", "{237D289A-AB6B-4E44-BCB6-A8B7B788E811}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PesukoneApp", "PesukoneApp\PesukoneApp.csproj", "{097904CE-CDD1-47EE-ACA9-2E92CF11853C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{237D289A-AB6B-4E44-BCB6-A8B7B788E811}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{237D289A-AB6B-4E44-BCB6-A8B7B788E811}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{237D289A-AB6B-4E44-BCB6-A8B7B788E811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{097904CE-CDD1-47EE-ACA9-2E92CF11853C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{097904CE-CDD1-47EE-ACA9-2E92CF11853C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{097904CE-CDD1-47EE-ACA9-2E92CF11853C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{097904CE-CDD1-47EE-ACA9-2E92CF11853C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

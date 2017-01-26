@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{237D289A-AB6B-4E44-BCB6-A8B7B788E811}</ProjectGuid>
+    <ProjectGuid>{097904CE-CDD1-47EE-ACA9-2E92CF11853C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>KiuasApp</RootNamespace>
-    <AssemblyName>KiuasApp</AssemblyName>
+    <RootNamespace>PesukoneApp</RootNamespace>
+    <AssemblyName>PesukoneApp</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Kiuas.cs" />
+    <Compile Include="Pesukone.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
