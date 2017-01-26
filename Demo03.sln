@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiuasApp", "KiuasApp\KiuasA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PesukoneApp", "PesukoneApp\PesukoneApp.csproj", "{097904CE-CDD1-47EE-ACA9-2E92CF11853C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelkkariApp", "TelkkariApp\TelkkariApp.csproj", "{A6C4F413-BF64-4F93-812D-5DA83A9C313D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{097904CE-CDD1-47EE-ACA9-2E92CF11853C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{097904CE-CDD1-47EE-ACA9-2E92CF11853C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{097904CE-CDD1-47EE-ACA9-2E92CF11853C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6C4F413-BF64-4F93-812D-5DA83A9C313D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C4F413-BF64-4F93-812D-5DA83A9C313D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C4F413-BF64-4F93-812D-5DA83A9C313D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C4F413-BF64-4F93-812D-5DA83A9C313D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
