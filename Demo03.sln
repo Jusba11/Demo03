@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelkkariApp", "TelkkariApp\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleApp", "VehicleApp\VehicleApp.csproj", "{F7E5B73C-1C1E-41C5-809B-631467AC8363}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpiskelijaApp", "OpiskelijaApp\OpiskelijaApp.csproj", "{9EBA92BD-95A8-4CC9-B978-AAD1A06B6A44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F7E5B73C-1C1E-41C5-809B-631467AC8363}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7E5B73C-1C1E-41C5-809B-631467AC8363}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7E5B73C-1C1E-41C5-809B-631467AC8363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EBA92BD-95A8-4CC9-B978-AAD1A06B6A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EBA92BD-95A8-4CC9-B978-AAD1A06B6A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EBA92BD-95A8-4CC9-B978-AAD1A06B6A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EBA92BD-95A8-4CC9-B978-AAD1A06B6A44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
