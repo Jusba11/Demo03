@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PesukoneApp", "PesukoneApp\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelkkariApp", "TelkkariApp\TelkkariApp.csproj", "{A6C4F413-BF64-4F93-812D-5DA83A9C313D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleApp", "VehicleApp\VehicleApp.csproj", "{F7E5B73C-1C1E-41C5-809B-631467AC8363}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{A6C4F413-BF64-4F93-812D-5DA83A9C313D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6C4F413-BF64-4F93-812D-5DA83A9C313D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6C4F413-BF64-4F93-812D-5DA83A9C313D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E5B73C-1C1E-41C5-809B-631467AC8363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E5B73C-1C1E-41C5-809B-631467AC8363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E5B73C-1C1E-41C5-809B-631467AC8363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E5B73C-1C1E-41C5-809B-631467AC8363}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
